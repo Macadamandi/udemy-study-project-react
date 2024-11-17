@@ -1,4 +1,5 @@
 Hi! This application is study project on Udemy with using React technology
+You can see this app here udemy-study-project-react.vercel.app
 Opportunities:
 - add people
 - delete people
